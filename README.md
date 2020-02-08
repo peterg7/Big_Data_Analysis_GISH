@@ -3,7 +3,7 @@
 ## Overview
 A company named Big Market needs help with their data analysis efforts. The company helps buisinesses optimize their marketing efforts. The client is a company is about to release a large catalog of products on a leading retail website. Before launching, the client wants to know how their products compare to similar products sold by their competitors. 
 
-## Reseources
+## Resources
 Software:
 - PySpark 4.2.2
 
